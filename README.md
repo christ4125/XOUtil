@@ -1,2 +1,2 @@
 # XOUtil
-Common utility class
+ASP.NET 4.0 common utility class
